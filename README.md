@@ -22,10 +22,10 @@ The user will be able to add expenses and deposits to their budget with or witho
 -----
 ## Tech Used 
 - Node js
-- sequelize
-- mysql2
-- dotenv
-- Insomnia
+- Mongo
+- Heroku
+- Express js
+- PWA
 
 
 ## User Story

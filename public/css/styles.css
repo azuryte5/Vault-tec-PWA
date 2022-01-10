@@ -1,11 +1,14 @@
 body {
   font-size: 120%;
-  font-family: Arial;
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+  background-color: #82A7D6;
 }
 
 button, input {
   font-size: 100%;
-  font-family: Arial;
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
 }
 
 table {
@@ -13,13 +16,13 @@ table {
 }
 
 td, th {
-  border: 1px solid #dddddd;
+  border: 1px solid #82A7D6;
   text-align: left;
   padding: 8px;
 }
 
 tr:nth-child(even) {
-  background-color: #dddddd;
+  background-color: #325886;
 }
 
 .error {
