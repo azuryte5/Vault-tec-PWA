@@ -2,7 +2,10 @@ const APP_PREFIX = 'Vault-tec-';
 const VERSION = 'version_01';
 const CACHE_NAME = APP_PREFIX + VERSION
 const FILES_TO_CACHE = [
-// To add
+    "./index.html",
+    "./js/idb.js",
+    "./js/index.js",
+    "./css/styles.css"
 ];
 
 
