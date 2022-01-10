@@ -13,7 +13,7 @@
 ## Links
 The URL of the GitHub repository: https://github.com/azuryte5/vault-tec-PWA
 
-The link to the heroku:
+The link to the heroku: https://vault-tec-pwa.herokuapp.com/
 
 -----
 ## Usage
